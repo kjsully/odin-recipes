@@ -1,0 +1,1 @@
+This is my first Odin project. I'm getting back into coding after a ~1 hiatus focused on self-improvement and happiness. I feel refreshed, energized, ambitious and motivated to finish what I had initially set out to accomplish. This time around, putting much emphasis on patience and study/work/life balance.
