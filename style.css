@@ -2,3 +2,33 @@ img {
     height: auto;
     width: 400px
 }
+
+.grad {
+        background-image: linear-gradient(rgb(255, 255, 255), rgb(91, 248, 157));       
+}
+
+div {
+    padding: 25px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+.recipe-title {
+    color: rgb(0, 83, 32);
+}
+
+* {
+    font-family: cursive, sans-serif;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home-button {
+    margin: 100px 10px;
+}
